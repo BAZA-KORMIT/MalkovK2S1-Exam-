@@ -1,0 +1,36 @@
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ClassLib.dll
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ClassLib.pdb
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ClassLib.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ClassLib.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll

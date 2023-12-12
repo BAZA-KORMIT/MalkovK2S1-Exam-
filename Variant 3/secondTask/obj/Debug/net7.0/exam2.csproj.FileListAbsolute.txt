@@ -1,0 +1,28 @@
+C:\stud\Мальков\3 сем\exam2\bin\Debug\net7.0\exam2.exe
+C:\stud\Мальков\3 сем\exam2\bin\Debug\net7.0\exam2.deps.json
+C:\stud\Мальков\3 сем\exam2\bin\Debug\net7.0\exam2.runtimeconfig.json
+C:\stud\Мальков\3 сем\exam2\bin\Debug\net7.0\exam2.dll
+C:\stud\Мальков\3 сем\exam2\bin\Debug\net7.0\exam2.pdb
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.GeneratedMSBuildEditorConfig.editorconfig
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.AssemblyInfoInputs.cache
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.AssemblyInfo.cs
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.csproj.CoreCompileInputs.cache
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.dll
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\refint\exam2.dll
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.pdb
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\exam2.genruntimeconfig.cache
+C:\stud\Мальков\3 сем\exam2\obj\Debug\net7.0\ref\exam2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\bin\Debug\net7.0\exam2.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\bin\Debug\net7.0\exam2.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\bin\Debug\net7.0\exam2.runtimeconfig.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\bin\Debug\net7.0\exam2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\bin\Debug\net7.0\exam2.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\refint\exam2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\exam2.genruntimeconfig.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 3\secondTask\obj\Debug\net7.0\ref\exam2.dll

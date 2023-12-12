@@ -1,0 +1,32 @@
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\второй курс\1ссем\АИСД\ЛАбы\Lab4to5\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\второй курс\1ссем\АИСД\ЗАЧЧЧЕЕЕЕЕЕЕЕМ(Т)\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 2\ConsoleApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

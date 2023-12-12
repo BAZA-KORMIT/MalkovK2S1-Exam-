@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\ConsoleApp\\ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\ConsoleApp\\ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\ConsoleApp\\ConsoleApp.csproj",
+        "projectName": "ConsoleApp",
+        "projectPath": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\ConsoleApp\\ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\МИСТЕР ПИВАСИК\\.nuget\\packages\\",
+        "outputPath": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\МИСТЕР ПИВАСИК\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\Library\\Library.csproj": {
+                "projectPath": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ClickableTransparentOverlay": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Veldrid.ImGui": {
+              "target": "Package",
+              "version": "[5.72.0, )"
+            },
+            "Vortice.Mathematics": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\МИСТЕР ПИВАСИК\\.nuget\\packages\\",
+        "outputPath": "D:\\УНИВЕРСИТЕТ\\МАЛЬКОВ\\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\\Examen\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\МИСТЕР ПИВАСИК\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ClickableTransparentOverlay": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Veldrid.ImGui": {
+              "target": "Package",
+              "version": "[5.72.0, )"
+            },
+            "Vortice.Mathematics": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

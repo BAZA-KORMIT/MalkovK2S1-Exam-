@@ -1,0 +1,24 @@
+G:\Мой диск\Programming\C#\Projects\Examen\Library\bin\Debug\net7.0\Library.deps.json
+G:\Мой диск\Programming\C#\Projects\Examen\Library\bin\Debug\net7.0\Library.dll
+G:\Мой диск\Programming\C#\Projects\Examen\Library\bin\Debug\net7.0\Library.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.dll
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\refint\Library.dll
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\Library.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\Library\obj\Debug\net7.0\ref\Library.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\bin\Debug\net7.0\Library.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\bin\Debug\net7.0\Library.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\bin\Debug\net7.0\Library.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.csproj.AssemblyReference.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\refint\Library.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\Library.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\Library\obj\Debug\net7.0\ref\Library.dll

@@ -1,0 +1,29 @@
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.AssemblyReference.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.runtimeconfig.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\bin\Debug\net7.0\ConsoleApp2.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\refint\ConsoleApp2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ConsoleApp2.genruntimeconfig.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp2\obj\Debug\net7.0\ref\ConsoleApp2.dll

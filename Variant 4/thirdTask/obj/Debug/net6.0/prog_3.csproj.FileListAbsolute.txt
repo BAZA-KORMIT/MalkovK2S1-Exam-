@@ -1,0 +1,29 @@
+/Users/pasa/prog_3/bin/Debug/net6.0/prog_3
+/Users/pasa/prog_3/bin/Debug/net6.0/prog_3.deps.json
+/Users/pasa/prog_3/bin/Debug/net6.0/prog_3.runtimeconfig.json
+/Users/pasa/prog_3/bin/Debug/net6.0/prog_3.dll
+/Users/pasa/prog_3/bin/Debug/net6.0/prog_3.pdb
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.csproj.AssemblyReference.cache
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.AssemblyInfoInputs.cache
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.AssemblyInfo.cs
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.csproj.CoreCompileInputs.cache
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.dll
+/Users/pasa/prog_3/obj/Debug/net6.0/refint/prog_3.dll
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.pdb
+/Users/pasa/prog_3/obj/Debug/net6.0/prog_3.genruntimeconfig.cache
+/Users/pasa/prog_3/obj/Debug/net6.0/ref/prog_3.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\bin\Debug\net6.0\prog_3.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\bin\Debug\net6.0\prog_3.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\bin\Debug\net6.0\prog_3.runtimeconfig.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\bin\Debug\net6.0\prog_3.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\bin\Debug\net6.0\prog_3.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\refint\prog_3.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\prog_3.genruntimeconfig.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Вариант 4\prog_3\obj\Debug\net6.0\ref\prog_3.dll

@@ -1,0 +1,169 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\WinFormsApp\\WinFormsApp.csproj": {}
+  },
+  "projects": {
+    "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\Library\\Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\Library\\Library.csproj",
+        "packagesPath": "C:\\Users\\d3nis\\.nuget\\packages\\",
+        "outputPath": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d3nis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "ClickableTransparentOverlay": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Veldrid.ImGui": {
+              "target": "Package",
+              "version": "[5.72.0, )"
+            },
+            "Vortice.Mathematics": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\WinFormsApp\\WinFormsApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\WinFormsApp\\WinFormsApp.csproj",
+        "projectName": "WinFormsApp",
+        "projectPath": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\WinFormsApp\\WinFormsApp.csproj",
+        "packagesPath": "C:\\Users\\d3nis\\.nuget\\packages\\",
+        "outputPath": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\WinFormsApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\d3nis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\Library\\Library.csproj": {
+                "projectPath": "G:\\Мой диск\\Programming\\C#\\Projects\\Examen\\Library\\Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "ClickableTransparentOverlay": {
+              "target": "Package",
+              "version": "[9.2.0, )"
+            },
+            "ImGui.NET": {
+              "target": "Package",
+              "version": "[1.90.0.1, )"
+            },
+            "SixLabors.ImageSharp": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Veldrid.ImGui": {
+              "target": "Package",
+              "version": "[5.72.0, )"
+            },
+            "Vortice.Mathematics": {
+              "target": "Package",
+              "version": "[1.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ClickableTransparentOverlay.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\ImGui.NET.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\NativeLibraryLoader.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.D3DCompiler.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.Direct3D11.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.DXGI.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SharpGen.Runtime.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SharpGen.Runtime.COM.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.ImGui.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.MetalBindings.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.OpenGLBindings.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.SDL2.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\vk.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.D3DCompiler.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.Direct3D11.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.DirectX.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.DXGI.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.Mathematics.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\linux-x64\native\libcimgui.so
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\osx\native\libcimgui.dylib
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-arm64\native\cimgui.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x64\native\cimgui.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x86\native\cimgui.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\debian-x64\native\libuv.so
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\fedora-x64\native\libuv.so
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\opensuse-x64\native\libuv.so
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\osx\native\libuv.dylib
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\rhel-x64\native\libuv.so
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win7-arm\native\libuv.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win7-x64\native\libuv.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win7-x86\native\libuv.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\osx-x64\native\libsdl2.dylib
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x64\native\SDL2.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x86\native\SDL2.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Library.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\bin\Debug\net7.0\Library.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+G:\Мой диск\Programming\C#\Projects\Examen\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ClickableTransparentOverlay.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\ImGui.NET.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Microsoft.VisualBasic.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\NativeLibraryLoader.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.D3DCompiler.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.Direct3D11.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SharpDX.DXGI.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SharpGen.Runtime.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SharpGen.Runtime.COM.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\SixLabors.ImageSharp.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.ImGui.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.MetalBindings.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.OpenGLBindings.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Veldrid.SDL2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\vk.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.D3DCompiler.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.Direct3D11.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.DirectX.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.DXGI.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Vortice.Mathematics.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\linux-x64\native\libcimgui.so
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\osx\native\libcimgui.dylib
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-arm64\native\cimgui.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x64\native\cimgui.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x86\native\cimgui.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\debian-x64\native\libuv.so
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\fedora-x64\native\libuv.so
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\opensuse-x64\native\libuv.so
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\osx\native\libuv.dylib
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\rhel-x64\native\libuv.so
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win7-arm\native\libuv.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win7-x64\native\libuv.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win7-x86\native\libuv.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\osx-x64\native\libsdl2.dylib
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x64\native\SDL2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\runtimes\win-x86\native\SDL2.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Library.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\bin\Debug\net7.0\Library.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CopyComplete
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Examen\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
