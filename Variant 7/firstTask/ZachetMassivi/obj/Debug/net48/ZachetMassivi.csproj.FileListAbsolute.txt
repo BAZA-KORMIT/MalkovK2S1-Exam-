@@ -1,0 +1,5 @@
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 7\ZachetMassivi\ZachetMassivi\obj\Debug\net48\ZachetMassivi.csproj.AssemblyReference.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 7\ZachetMassivi\ZachetMassivi\obj\Debug\net48\ZachetMassivi.GeneratedMSBuildEditorConfig.editorconfig
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 7\ZachetMassivi\ZachetMassivi\obj\Debug\net48\ZachetMassivi.AssemblyInfoInputs.cache
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 7\ZachetMassivi\ZachetMassivi\obj\Debug\net48\ZachetMassivi.AssemblyInfo.cs
+D:\УНИВЕРСИТЕТ\МАЛЬКОВ\2 КУРС 1 СЕМ (ЗАЧЕТЫ)\Variant 7\ZachetMassivi\ZachetMassivi\obj\Debug\net48\ZachetMassivi.csproj.CoreCompileInputs.cache

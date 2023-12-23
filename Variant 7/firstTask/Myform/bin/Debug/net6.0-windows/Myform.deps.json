@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Myform/1.0.0": {
+        "dependencies": {
+          "ZachetMassivi": "1.0.0"
+        },
+        "runtime": {
+          "Myform.dll": {}
+        }
+      },
+      "ZachetMassivi/1.0.0": {
+        "runtime": {
+          "ZachetMassivi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Myform/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ZachetMassivi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

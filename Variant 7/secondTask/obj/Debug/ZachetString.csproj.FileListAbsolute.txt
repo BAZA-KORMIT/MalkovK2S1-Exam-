@@ -1,0 +1,6 @@
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetString\bin\Debug\ZachetString.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetString\bin\Debug\ZachetString.pdb
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetString\obj\Debug\ZachetString.csproj.AssemblyReference.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetString\obj\Debug\ZachetString.csproj.CoreCompileInputs.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetString\obj\Debug\ZachetString.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetString\obj\Debug\ZachetString.pdb

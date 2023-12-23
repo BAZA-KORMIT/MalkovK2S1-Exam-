@@ -1,0 +1,12 @@
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.csproj.AssemblyReference.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.AssemblyInfoInputs.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.AssemblyInfo.cs
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.csproj.CoreCompileInputs.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\bin\Debug\net6.0\ZachetMassivi.deps.json
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\bin\Debug\net6.0\ZachetMassivi.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\bin\Debug\net6.0\ZachetMassivi.pdb
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\refint\ZachetMassivi.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ZachetMassivi.pdb
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZachetMassivi\ZachetMassivi\obj\Debug\net6.0\ref\ZachetMassivi.dll

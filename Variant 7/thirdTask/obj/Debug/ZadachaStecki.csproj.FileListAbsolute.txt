@@ -1,0 +1,6 @@
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZadachaStecki\bin\Debug\ZadachaStecki.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZadachaStecki\bin\Debug\ZadachaStecki.pdb
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZadachaStecki\obj\Debug\ZadachaStecki.csproj.AssemblyReference.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZadachaStecki\obj\Debug\ZadachaStecki.csproj.CoreCompileInputs.cache
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZadachaStecki\obj\Debug\ZadachaStecki.dll
+C:\Users\grish\Desktop\учеба\3 семестр\Мальков Александр Анатольевич\Лабы\Лаб 6\ZadachaStecki\obj\Debug\ZadachaStecki.pdb
