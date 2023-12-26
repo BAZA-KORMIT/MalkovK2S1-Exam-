@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/bin/Debug/net6.0/firstTask
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/bin/Debug/net6.0/firstTask.deps.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/bin/Debug/net6.0/firstTask.runtimeconfig.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/bin/Debug/net6.0/firstTask.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/bin/Debug/net6.0/firstTask.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.AssemblyInfo.cs
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/refint/firstTask.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/firstTask.genruntimeconfig.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTask/obj/Debug/net6.0/ref/firstTask.dll

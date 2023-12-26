@@ -1,0 +1,30 @@
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.AssemblyInfo.cs
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.deps.json
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.runtimeconfig.json
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.dll
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.pdb
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.dll
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/refint/thirdTaks.dll
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.pdb
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.genruntimeconfig.cache
+/Users/vladislavkirillov/Projects/thirdTaks/thirdTaks/obj/Debug/net6.0/ref/thirdTaks.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.deps.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.runtimeconfig.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/bin/Debug/net6.0/thirdTaks.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.AssemblyInfo.cs
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/refint/thirdTaks.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/thirdTaks.genruntimeconfig.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/thirdTaks/thirdTaks/obj/Debug/net6.0/ref/thirdTaks.dll

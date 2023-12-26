@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/bin/Debug/net6.0/secondTask
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/bin/Debug/net6.0/secondTask.deps.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/bin/Debug/net6.0/secondTask.runtimeconfig.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/bin/Debug/net6.0/secondTask.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/bin/Debug/net6.0/secondTask.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.AssemblyInfo.cs
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/refint/secondTask.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/secondTask.genruntimeconfig.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/secondTask/secondTask/obj/Debug/net6.0/ref/secondTask.dll

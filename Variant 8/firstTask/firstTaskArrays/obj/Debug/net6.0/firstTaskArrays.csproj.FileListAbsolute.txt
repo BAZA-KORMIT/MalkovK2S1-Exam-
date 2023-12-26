@@ -1,0 +1,15 @@
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.csproj.AssemblyReference.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.AssemblyInfoInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.AssemblyInfo.cs
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.csproj.CoreCompileInputs.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/bin/Debug/net6.0/firstTaskArrays
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/bin/Debug/net6.0/firstTaskArrays.deps.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/bin/Debug/net6.0/firstTaskArrays.runtimeconfig.json
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/bin/Debug/net6.0/firstTaskArrays.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/bin/Debug/net6.0/firstTaskArrays.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/refint/firstTaskArrays.dll
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.pdb
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/firstTaskArrays.genruntimeconfig.cache
+/Users/vladislavkirillov/Desktop/УНИВЕРСИТЕТ/МАЛЬКОВ/2 КУРС/EXAM/firstTask/firstTaskArrays/obj/Debug/net6.0/ref/firstTaskArrays.dll
