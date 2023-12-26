@@ -11,23 +11,24 @@ namespace thirdTask
         //закинуть элементы из стека которых нет в листе в очередь
         static void Main()
         {
-            MyLinkedList<int> linkedList = new MyLinkedList<int>();
+            //MyLinkedList<int> linkedList = new MyLinkedList<int>();
+            MyLinkList<int> list= new MyLinkList<int>(); 
             MyStack<int> stack = new MyStack<int>();
             MyQuery<int> query = new MyQuery<int>();
 
             StackFilling(stack);
-            LinkedListFilling(linkedList);
-            GetQuery(linkedList, stack, query);
-
+            LinkedListFilling(list) ;
+            GetQuery(list, stack, query);
+            Console.Write("Итоговая очередь: ");
             foreach (int c in query)
                 Console.Write(c+" ");
         }
 
-        static void GetQuery(MyLinkedList<int> linkedList, MyStack<int> stack, MyQuery<int> query)
+        static void GetQuery(MyLinkList<int> list, MyStack<int> stack, MyQuery<int> query)
         {
             for (int i = 0; i < 10; i++)
             {
-                if (linkedList.Contains(stack.Peek()))
+                if (list.Contains(stack.Peek()))
                 {
                     stack.Remove();
                 }
@@ -39,10 +40,15 @@ namespace thirdTask
             }
         }
 
-        static void LinkedListFilling(MyLinkedList<int> linkedList)
+        static void LinkedListFilling(MyLinkList<int> linkedList)
         {
             for (int i = 1; i <= 7; i++)
-                linkedList.Add(i);
+            {
+                if (i % 2 == 0)
+                    linkedList.AddFirst(i);
+                else
+                    linkedList.Add(i);
+            }
         }
 
         static void StackFilling(MyStack<int> stack)
@@ -52,10 +58,122 @@ namespace thirdTask
         }
     }
 
-    public class MyLinkedList<T> : IEnumerable<T>
+    // Есть добавление в начало и конец и удаление тоже
+    // имеет 2 поля указателя - на следующий и предыдущий элемент
+    // используется линкед лист нода. У нее есть ссылка не только на следующий элемент (как в обычной ноде), но и на предыдущий
+    public class MyLinkList<T>
     {
-        Node<T>? head; // головной/первый элемент
-        Node<T>? tail; // последний/хвостовой элемент
+        private thirdTaks.LinkedListNode<T> head;
+        private thirdTaks.LinkedListNode<T> tail;
+        int count;
+
+        public MyLinkList()
+        {
+            head = null;
+            tail = null;
+            count = 0;
+        }
+
+        public void AddFirst(T data)
+        {
+            thirdTaks.LinkedListNode<T> newLinkedListNode = new(data);
+
+            if (head == null)
+            {
+                head = newLinkedListNode;
+                tail = newLinkedListNode;
+            }
+            else
+            {
+                newLinkedListNode.Next = head;
+                head.Prev = newLinkedListNode;
+                head = newLinkedListNode;
+            }
+            count++;
+        }
+
+        public void Add(T data)
+        {
+            thirdTaks.LinkedListNode<T> node = new(data);
+
+            if (head == null)
+                head = node;
+            else
+                tail!.Next = node;
+            tail = node;
+
+            count++;
+        }
+
+        public void Remove(T data)
+        {
+            thirdTaks.LinkedListNode<T> current = head;
+
+            while (current != null)
+            {
+                if (current.Data.Equals(data))
+                {
+                    if (current == head)
+                        head = current.Next;
+
+                    if (current == tail)
+                        tail = current.Prev;
+
+                    if (current.Prev != null)
+                        current.Prev.Next = current.Next;
+
+                    if (current.Next != null)
+                        current.Next.Prev = current.Prev;
+
+                    break;
+                }
+
+                current = current.Next;
+            }
+            count--;
+        }
+
+        public bool Contains(T data)
+        {
+            thirdTaks.LinkedListNode<T> current = head;
+            while (current != null && current.Data != null)
+            {
+                if (current.Data.Equals(data)) return true;
+                current = current.Next;
+            }
+            return false;
+        }
+
+        public T Remove()
+        {
+            thirdTaks.LinkedListNode<T> current = head;
+            while (current != null)
+            {
+                if (current == head)
+                    head = current.Next;
+
+                if (current == tail)
+                    tail = current.Prev;
+
+                if (current.Prev != null)
+                    current.Prev.Next = current.Next;
+
+                if (current.Next != null)
+                    current.Next.Prev = current.Prev;
+
+                break;
+            }
+            count--;
+            return current.Data;
+        }
+        public int Count() => count;
+
+        public bool IsEmpty() => count == 0;
+    }
+    /*public class MyLinkedList<T> : IEnumerable<T>
+    {
+        Node<T>? head; 
+        Node<T>? tail; 
         int count;  // количество элементов в списке
 
         // добавление элемента
@@ -159,7 +277,7 @@ namespace thirdTask
         {
             return ((IEnumerable<T>)this).GetEnumerator();
         }
-    }
+    }*/
 
     public class MyStack<T> : IMove<T>
     {
